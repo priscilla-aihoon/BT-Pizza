@@ -1,4 +1,5 @@
 # BT Pizza
+
 As a BI Consultant for **BlackTECH’s Pizza**, a Canadian-inspired pizza place in Ontario, I developed an **interactive Power BI dashboard** to help the restaurant use data to improve **operations, sales, products, and revenue**.
 
 The project analyzed a year of sales data across four tables (**Orders, Order Details, Pizzas, Pizza Types**). Using **data modeling, DAX measures, and storytelling**, I built a dashboard structured into the following sections:
